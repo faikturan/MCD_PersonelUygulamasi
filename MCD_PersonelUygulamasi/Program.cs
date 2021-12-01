@@ -10,6 +10,8 @@ namespace MCD_PersonelUygulamasi
     {
         static void Main(string[] args)
         {
+           
+
         }
     }
 }
